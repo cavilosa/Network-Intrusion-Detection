@@ -1,3 +1,8 @@
+
+> ⚠️ **Archived Project**  
+> This repository is no longer maintained. It remains available for reference and historical purposes.
+
+
 # CMPE 255 Project
 
 We are going to implement a machine learning based intrusion detection system utilizing the dataset from the KDD 1999 Third International Knowledge Discovery and Data Mining Tools Competition. The original task in the competition is to detect whether a connection is an attack or a normal connection. However, we will take this task further and classify the connections into 4 major attacks type and a normal condition.  
